@@ -563,7 +563,7 @@ You are free to modify and extend the project for your own learning and developm
 
 ## 👨‍💻 Author
 
-**Kiran Chougale**
+**Arun Naik**
 
 Built with ❤️ using:
 
